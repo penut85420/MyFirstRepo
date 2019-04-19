@@ -1,6 +1,7 @@
 # My First Repository!
 
 + This is my first repository, but actually not.
++ Author: PenutChen
 
 ## Step 1
 1. Install Git
