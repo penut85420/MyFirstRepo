@@ -15,4 +15,5 @@
 	> ![](https://i.imgur.com/JdXZcBR.png)
 4. Clone the repository
 	> ![](https://i.imgur.com/4BoXEWR.png)
-5. 
+5. Push!
+	> ![](https://i.imgur.com/flUnqD3.png)
