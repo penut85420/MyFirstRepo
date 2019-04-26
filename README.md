@@ -1,5 +1,7 @@
 # My First Repository!
 
+[![Build Status](https://travis-ci.org/penut85420/MyFirstRepo.svg?branch=master)](https://travis-ci.org/penut85420/MyFirstRepo)
+
 + This is my first repository, but actually not.
 + Author: Penut Chen
 
