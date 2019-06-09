@@ -8,13 +8,3 @@ script: true
 
 script:
   - python myObject_test.py
-
-deploy:
-  provider: heroku
-  api_key:
-    secure: ec9e5c59-4d18-456a-aa96-fb36329a7a76
-  app: my-repo
-  on:
-    repo: penut85420/MyFirstRepo
-  run:
-    "web: gunicorn app_run:app"
